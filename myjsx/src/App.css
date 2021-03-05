@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.title{
+  border: solid 1px black;
+  max-width:100px;
+}
+.red{
+  border: solid 1px black;
+  max-width:100px;
+}
+ 
